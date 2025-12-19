@@ -112,4 +112,4 @@ Projects and initial tasks are fetched from a **free public API**, while adding,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/5l5ola/Task-Management-Dashboard-Mini-Trello.git
+git clone https://github.com/5l5ola/Task-Management-Dashboard-Mini-Trello-.git
