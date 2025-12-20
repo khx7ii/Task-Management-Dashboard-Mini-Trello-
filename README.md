@@ -63,16 +63,10 @@ Projects and initial tasks are fetched from a **free public API**, while adding,
 ---
 
 ## 🌐 API Requirements
-- A free and public API is used (no authentication required).
+- handled API using MockAPI
 - API returns data in JSON format.
 - Only **GET requests** are used.
 - Adding, deleting, and editing are handled locally in React.
-
-### Example APIs:
-- DummyJSON API
-- MockAPI.io (recommended for custom schemas)
-
----
 
 ## 🧠 State Management
 - React `useState` and `useEffect` are used.
