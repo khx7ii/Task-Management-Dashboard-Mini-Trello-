@@ -104,6 +104,28 @@ Projects and initial tasks are fetched from a **free public API**, while adding,
 
 ## ▶️ How to Run the Project
 
-1. Clone the repository:
+1. **Clone the repository**:  
 ```bash
 git clone https://github.com/5l5ola/Task-Management-Dashboard-Mini-Trello-.git
+````
+
+2. **Navigate into the project folder**:
+
+```bash
+cd HCIProject
+```
+
+3. **Install dependencies**:
+
+```bash
+npm install
+```
+
+4. **Run the project**:
+
+```bash
+npm run dev
+```
+
+5. **Open in browser**:
+   Go to `http://localhost:5173/` (or the port shown in your terminal).
